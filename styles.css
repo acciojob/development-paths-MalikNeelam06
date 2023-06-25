@@ -1,1 +1,8 @@
 /*  your css code here. If applicable */
+img{
+	height:300px;
+	border-style: none;
+    max-width: 100%;
+    box-sizing: content-box;
+    background-color: #fff;
+}
